@@ -1,4 +1,4 @@
-## Nossa empresa
+## Empresa
 
 Estou procurando developers para uma fintech em Inglaterra. A tecnologia está no centro da oferta desta startup que recentemente se tornou duplo 🦄, isto é foi avaliada em $2B e está na vanguarda da inovação em fintech no Reino Unido. Foi das primeira seguradora de animais de estimação no Reino Unido a oferecer sinistros on-line sem formulário e com sistemas desenvolvidos para tornar as coisas mais rápidas e fáceis para os clientes.
 
